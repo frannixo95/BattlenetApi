@@ -1,0 +1,21 @@
+{
+    "name": "fran/battlenet",
+    "description": "Battle Net Api",
+    "type": "package",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Fran",
+            "email": "frantriviciclo@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php" : "^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "fran\\battlenet\\": "src/"
+        }
+    }
+}
