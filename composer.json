@@ -1,5 +1,5 @@
 {
-    "name": "frannixo95/BattlenetApi",
+    "name": "frannixo95/battlenet-api",
     "description": "Battle Net Api",
     "type": "package",
     "license": "mit",
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "fran\\battlenet\\": "src/"
+            "frannixo95\\BattlenetApi\\": "src/"
         }
     }
 }

@@ -27,7 +27,7 @@
  * @author      Joe Foster (Ulminia) <ulminia@gmail.com>
  * @version     1.0 (beta)
  */
-namespace fran\battlenet;
+namespace frannixo95\BattlenetApi;
 
 class Client
 {
